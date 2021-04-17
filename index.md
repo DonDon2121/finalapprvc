@@ -2,6 +2,8 @@
 
 working title
 
+![Image](yinyan.jpeg)
+
 ### Donavan Cochran
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -21,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](http://google.com)  ![Image](yinyan.jpeg)
+[Link](http://google.com) 
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
