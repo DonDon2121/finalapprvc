@@ -1,5 +1,6 @@
 ## Welcome to My final app
 
+working title
 
 ### Donavan Cochran
 
@@ -8,8 +9,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# My Final App
-## Donavan Cochran
+# header 1 
+## Headr 2
 ### Header 3
 
 - Bulleted
