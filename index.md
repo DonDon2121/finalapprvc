@@ -21,7 +21,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](http://google.com) and ![Image](yin-yang-tree.jpeg)
+[Link](http://google.com)  ![Image](yin-yang-tree.jpeg)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
